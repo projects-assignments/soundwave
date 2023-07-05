@@ -44,7 +44,7 @@ Han contactado contigo por tu reputación como maquetadora web, y te piden que l
 - **[Ant Design](https://ant.design/)**
 - **[React - Una biblioteca de JavaScript para construir interfaces de usuario](https://es.reactjs.org/)**
 - **[Vite-Typescript](https://vitejs.dev/guide/)**
-- **[Feature Overview v6.8.0](https://reactrouter.com/en/main/start/overview)**
+- **[React-Router](https://reactrouter.com/en/main/start/overview)**
 
 
 

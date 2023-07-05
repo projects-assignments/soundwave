@@ -23,17 +23,13 @@ Han contactado contigo por tu reputación como maquetadora web, y te piden que l
 <details>
   <summary>Imágenes</summary>
 
-    ![landing-page-girl.png](assets/landing-page-girl.png)
+    - ![landing-page-girl.png](assets/landing-page-girl.png)
+    - ![covers.jpg](assets/covers.jpg)
+    - ![more.svg](assets/more.svg)
+    - ![albums.svg](assets/albums.svg)
+    - ![logo.png](assets/logo.png)![microphone.svg](assets/microphone.svg)
 
-    ![covers.jpg](assets/covers.jpg)
 
-    ![more.svg](assets/more.svg)
-
-    ![albums.svg](assets/albums.svg)
-
-    ![logo.png](assets/logo.png)
-
-    ![microphone.svg](assets/microphone.svg)
 </details>
 
 <details>

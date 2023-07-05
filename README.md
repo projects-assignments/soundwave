@@ -8,7 +8,7 @@ Han contactado contigo por tu reputación como maquetadora web, y te piden que l
 
 ## Requerimientos técnicos
 
-- La web deberá estar desarrollada en React.
+- La web deberá estar desarrollada en React con TypeScript.
 - La web deberá ser responsive.
 - Los estilos deberán aplicarse con módulos css, styled components, o algún framework de css.
 - La web deberá ser fiel al prototipo.
@@ -23,63 +23,30 @@ Han contactado contigo por tu reputación como maquetadora web, y te piden que l
 <details>
   <summary>Imágenes</summary>
 
-    - ![landing-page-girl.png](assets/landing-page-girl.png)
-    - ![covers.jpg](assets/covers.jpg)
-    - ![more.svg](assets/more.svg)
-    - ![albums.svg](assets/albums.svg)
-    - ![logo.png](assets/logo.png)![microphone.svg](assets/microphone.svg)
+    - landing-page-girl.png
+    - covers.jpg
+    - more.svg
+    - albums.svg
+    - logo.png
+    - microphone.svg
+    - twitter.svg
 
 
 </details>
 
-<details>
-  <summary>Mockup</summary>
+- **[Mockup](https://simplonline-v3-prod.s3.eu-west-3.amazonaws.com/media/file/pdf/46391d6c-b766-4ed3-a121-72c9b2a15960.pdf)**
+- **[Carta gráfica](https://simplonline-v3-prod.s3.eu-west-3.amazonaws.com/media/file/pdf/0b528713-7dbc-4261-b4b7-0070dd4e7021.pdf)**
+- **[How to CSS Style in React](https://www.robinwieruch.de/react-css-styling/)**
+- **[Styled-components](https://styled-components.com/)**
+- **[React-Bootstrap](https://react-bootstrap.github.io/)**
+- **[React Semantic UI Tutorial for Beginners](https://www.robinwieruch.de/react-semantic-ui-tutorial/)**
+- **[MUI Core: Ready to use components, free forever](https://mui.com/core/)**
+- **[Ant Design](https://ant.design/)**
+- **[React - Una biblioteca de JavaScript para construir interfaces de usuario](https://es.reactjs.org/)**
+- **[Vite-Typescript](https://vitejs.dev/guide/)**
+- **[Feature Overview v6.8.0](https://reactrouter.com/en/main/start/overview)**
 
-    [](https://simplonline-v3-prod.s3.eu-west-3.amazonaws.com/media/file/pdf/46391d6c-b766-4ed3-a121-72c9b2a15960.pdf)
-</details>
-<details>
-  <summary>Carta gráfica</summary>
 
-    [](https://simplonline-v3-prod.s3.eu-west-3.amazonaws.com/media/file/pdf/0b528713-7dbc-4261-b4b7-0070dd4e7021.pdf)
-
-</details>
-<details>
-  <summary>React CSS styling</summary>
-
-    [How to CSS Style in React](https://www.robinwieruch.de/react-css-styling/)
-
-</details>
-<details>
-  <summary>React bootstrap</summary>
-
-    [React-Bootstrap](https://react-bootstrap.github.io/)
-
-</details>
-<details>
-  <summary>Semantic UI</summary>
-
-    [React Semantic UI Tutorial for Beginners](https://www.robinwieruch.de/react-semantic-ui-tutorial/)
-
-</details>
-<details>
-  <summary>Material UI</summary>
-
-    [MUI Core: Ready to use components, free forever](https://mui.com/core/)
-
-</details>
-<details>
-  <summary>React</summary>
-
-    [React - Una biblioteca de JavaScript para construir interfaces de usuario](https://es.reactjs.org/)
-
-</details>
-<details>
-  <summary>React Router</summary>
-
-    [Feature Overview v6.8.0](https://reactrouter.com/en/main/start/overview)
-</details>
-
-![twitter.svg](assets/twitter.svg)
 
 ## Entregables
 

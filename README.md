@@ -52,7 +52,6 @@ Han contactado contigo por tu reputación como maquetadora web, y te piden que l
 
 - Repositorio de GitHub.
 - Enlace del despliegue.
-- Un documento con la estructura de carpetas propuesta para el desarrollo de la web.
 
 ## Modalidad
 
